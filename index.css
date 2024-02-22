@@ -9,7 +9,9 @@ header {
   color: rgb(222, 222, 40);
   background-color: rgba(175, 26, 229, 0.4666666667);
 }
-
+h1 {
+  color: #ffffff;
+}
 h2 {
   font-size: 20px;
 }
